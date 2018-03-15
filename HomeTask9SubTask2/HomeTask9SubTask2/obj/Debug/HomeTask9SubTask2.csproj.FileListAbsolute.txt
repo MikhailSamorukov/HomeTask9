@@ -1,0 +1,15 @@
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\bin\Debug\HomeTask9SubTask2.exe.config
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\bin\Debug\HomeTask9SubTask2.exe
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\bin\Debug\HomeTask9SubTask2.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\bin\Debug\EntityFramework.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\bin\Debug\EntityFramework.xml
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\obj\Debug\HomeTask9SubTask2.csprojResolveAssemblyReference.cache
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\obj\Debug\HomeTask9SubTask2.exe
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\obj\Debug\HomeTask9SubTask2.pdb
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\obj\Debug\HomeTask9SubTask2.Migrations.Version_1_0.resources
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\obj\Debug\HomeTask9SubTask2.csproj.GenerateResource.Cache
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\obj\Debug\HomeTask9SubTask2.Migrations.Version_1_1.resources
+c:\users\михаил\documents\visual studio 2017\Projects\HomeTask9SubTask2\HomeTask9SubTask2\obj\Debug\HomeTask9SubTask2.Migrations.Version_1_3.resources
